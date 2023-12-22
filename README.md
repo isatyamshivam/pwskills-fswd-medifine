@@ -4,4 +4,4 @@ Features : Medifine online medicine shop is designed to provide a seamless exper
 
 Skills : HTML and CSS
 
-Visit : https://isatyamshivam.github.io/pwskills-fsd-medifine/
+Visit : https://isatyamshivam.github.io/pwskills-fswd-medifine/
